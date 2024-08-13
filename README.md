@@ -12,7 +12,8 @@
 ### How to run the project:
 
 1. Download the Implementation.ipynb file from the repository. Alternatively, the repository can be cloned using the command:
-<ul>git clone https://github.com/shoaibk99/Machine-Learning-Programming-Final.git</ul>
+
+`git clone https://github.com/shoaibk99/Machine-Learning-Programming-Final.git`
 
 2. The .ipynb notebook `Implementation.ipynb` consists of 2 sections. First section is for executing the code provided by the authors. Second section consists of our custom implementation.
 
